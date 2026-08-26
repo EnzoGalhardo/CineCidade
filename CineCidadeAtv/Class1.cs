@@ -53,6 +53,17 @@ namespace CineCidadeAtv
                
         }
 
+        //Exibindo valores finais
+
+        public void ExibirValores()
+        {
+            Console.WriteLine($"Nome do cliente: {nomeCliente}");
+            Console.WriteLine($"")
+        
+        
+        
+        }
+
     }
 
 }
